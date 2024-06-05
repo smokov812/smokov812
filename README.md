@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут smokov!</h1>
+<h1 align="center">Hi👋 My name is smokov!</h1>
 
 ###
 
@@ -16,9 +16,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я начинающий сис.администратор/any key. В данный момент учусь в Политехе. Cейчас изучаю документации по Linux и Linux серверам, т.к недавно перешел с Windows на Linux.Так же совсем недавно разместил домашний сервер из старого железа без удаленного доступа.</p>
+<p align="left">I am a beginner system administrator/any key. Currently I am studying at Polytechnic University. I’m reading documentation on Linux and Linux servers, because I recently switched from Windows to Linux. I also recently installed a home server from old hardware without remote access.</p>
 
